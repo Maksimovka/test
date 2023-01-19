@@ -2,4 +2,8 @@
 
 https://learngitbranching.js.org/?locale=ru_RU
 
+1) Добавление: git add .
+2) Коммит: git commit - m"[название]"
+3) Загрузка: git push -u oriin master
+
 17.01.23
